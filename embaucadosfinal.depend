@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718497644 source:c:\users\ivan\onedrive\escritorio\embaucadosfinal\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+
